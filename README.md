@@ -2,7 +2,7 @@
     <img alt="NuKenzieLogo" title="#NuKenzieLogo" src="./public/img/nukenzie.png" />
 </h1>
 
-## 🔭 Acesse o Deploy do Projeto Aqui: [Nu Kenzie]()
+## 🔭 Acesse o Deploy do Projeto Aqui: [Nu Kenzie](https://nu-kenzie-patrickcordeiro.vercel.app/)
 
 ## 💻 Sobre o projeto
 
@@ -64,7 +64,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/patrickcordeiroestudos/Nu-Kenzie.git
+$ git clone https://github.com/patrickcordeiro/NuKenzie.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd Nu-Kenzie
@@ -88,6 +88,6 @@ $ yarn start
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença MIT.
+Este projeto esta sob a licença MIT.
 
 Feito com ❤️ por Patrick Cordeiro 👋🏽 [Entre em contato!](https://www.linkedin.com/in/patrickcordeiro/)
